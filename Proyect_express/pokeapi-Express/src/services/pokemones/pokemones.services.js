@@ -2,7 +2,6 @@ const axios = require('axios')
 
 class pokemonesServices {
     constructor() {
-
     }
 
     async getAll() {

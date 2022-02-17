@@ -1,0 +1,72 @@
+{
+  "pokemons": [
+    {
+      "id": "2",
+      "name": "ivysaur",
+      "type": "grass",
+      "evolve": true,
+      "url": "https://pokeapi.co/api/v2/pokemon/2/"
+    },
+    {
+      "id": "3",
+      "name": "venusaur",
+      "type": "grass",
+      "evolve": true,
+      "url": "https://pokeapi.co/api/v2/pokemon/3/"
+    },
+    {
+      "id": "4",
+      "name": "charmander",
+      "type": "fire",
+      "evolve": true,
+      "url": "https://pokeapi.co/api/v2/pokemon/4/"
+    },
+    {
+      "id": "5",
+      "name": "charmeleon",
+      "type": "fire",
+      "evolve": true,
+      "url": "https://pokeapi.co/api/v2/pokemon/5/"
+    },
+    {
+      "id": "6",
+      "name": "charizard",
+      "type": "fire",
+      "evolve": true,
+      "url": "https://pokeapi.co/api/v2/pokemon/6/"
+    },
+    {
+      "id": "7",
+      "name": "squirtle",
+      "type": "water",
+      "url": "https://pokeapi.co/api/v2/pokemon/7/"
+    },
+    {
+      "id": "8",
+      "name": "wartortle",
+      "type": "water",
+      "evolve": true,
+      "url": "https://pokeapi.co/api/v2/pokemon/8/"
+    },
+    {
+      "id": "9",
+      "name": "mega blastoise",
+      "type": "water super",
+      "evolve": false,
+      "url": "https://pokeapi.co/api/v2/pokemon/19/"
+    },
+    {
+      "id": "122",
+      "name": "snorlax",
+      "type": "normal",
+      "evolve": false,
+      "url": "https://pokeapi.co/api/v2/pokemon/123/"
+    },
+    {
+      "id": "133",
+      "name": "Umbreon",
+      "type": "normal",
+      "url": "https://pokeapi.co/api/v2/pokemon/10/"
+    }
+  ]
+}

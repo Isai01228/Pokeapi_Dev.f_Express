@@ -1,14 +1,17 @@
-const axios = require('axios')
+const axios = require('axios');
 
-class pokemonesServices {
+class PokemonesService {
+
     constructor() {
+
     }
 
     async getAll() {
-        const res = await  axios ('http://localhost:3000/pokemons')
-        const data = res.data
-        return data
+        const res = await axios('http://localhost:3000/pokemons');
+        const data = res.data;
+        return data;
     }
+
 }
 
-module.exports = pokemonesServices
+module.exports = PokemonesService;

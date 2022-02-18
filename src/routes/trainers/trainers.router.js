@@ -1,6 +1,6 @@
 const express = require('express');
 const trainerRouter = express.Router();
-const TrainersServices = require('../../services/trainers/trainers..services');
+const TrainersServices = require('../../services/trainers/trainers.services');
 
 const serviceTrainerObject = new TrainersServices();
 
